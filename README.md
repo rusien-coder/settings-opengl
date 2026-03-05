@@ -2,6 +2,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)
+## 📸 Скриншоты
+![Главный экран](screenshots/view_main.png)
 # OpenGL Settings Manager PRO
 Профессиональный инструмент для мониторинга и настройки OpenGL/Mesa в Linux.
 
